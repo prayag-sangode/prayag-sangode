@@ -8,9 +8,9 @@ I'm a GCP Professinal with a passion for DevOps, Linux and Opensource. I enjoy b
 
 ## 💼 Professional Background
 
-- 🎓 Bachelors in IT Engineering from [RTM Nagpur University]
-- 🏢 Currently working at [T-Sytems] as [Technical Architect]
-- ⚙️ I specialize in [GCP Cloud, DevOps, Kubernetes, Terraform, Ansible]
+- 🎓 Bachelors in IT Engineering from RTM Nagpur University
+- 🏢 Currently working at T-Systems as Technical Architect
+- ⚙️ I specialize in GCP Cloud, DevOps, Kubernetes, Terraform, Ansible
 - 🌱 I'm currently learning Data Engineering
 
 ## 🔧 Technologies & Tools
