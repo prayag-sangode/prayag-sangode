@@ -4,7 +4,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@prayag-sangode)
 
 
-I'm a GCP Professinal with a passion for DevOps, Linux and Opensource. I enjoy blogging, and I'm enthusiastic about Containarization and DevOps.
+I'm a GCP Professional with a passion for DevOps, Linux and Opensource. I enjoy blogging, and I'm enthusiastic about Containarization and DevOps.
 
 ## 💼 Professional Background
 
