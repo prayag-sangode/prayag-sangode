@@ -3,16 +3,21 @@
 [`https://www.linkedin.com/in/prayag-sangode-41737318/`](https://www.linkedin.com/in/prayag-sangode-41737318/)  
 [`https://medium.com/@prayag-sangode`](https://medium.com/@prayag-sangode)  
 
-**Senior Technical Architect | Mentor | DevOps | Cloud | MLOPS | LLMOps | AIOPs Enthusiast**  
+**Senior Technical Architect | Mentor | DevOps • DataOps • MLOps • LLMOps • DevSecOps**  
 
-I specialize in building **future‑ready infrastructure and AI‑driven pipelines**. With 17+ years in IT, I mentor engineers and architects in mastering **DevOps, DataOps, MLOps, LLMOps, and DevSecOps** — blending cloud, automation, and AI into practical, production‑grade solutions.  
+I design **future‑ready infrastructure and AI‑driven pipelines**. With 17+ years in IT, I mentor engineers and architects to master **cloud automation, AI/ML pipelines, and secure DevOps practices** — blending **Kubernetes, Terraform/OpenTofu, Ansible, and modern AI tooling** into production‑grade solutions.  
+
+---
 
 ## Professional Background  
-- Bachelors in IT Engineering – RTM Nagpur University  
-- Technical Architect at **T‑Systems**  
-- Mentor for aspiring **DevOps & AI/ML engineers**  
-- Expertise: **Kubernetes, Terraform/OpenTofu, Ansible, Keycloak, OpenBao, CI/CD, Cloud (AWS/GCP/Azure)**  
-- Currently advancing **AI‑assisted DevOps** & building **ai‑tfgen (AI‑powered Terraform generator)**  
+
+-  Bachelors in IT Engineering – RTM Nagpur University  
+-  Technical Architect at **T‑Systems**  
+-  Mentor for aspiring **DevOps & AI/ML engineers**  
+-  Expertise: **Kubernetes, Terraform/OpenTofu, Ansible, Keycloak, OpenBao, CI/CD, Cloud (AWS/GCP/Azure)**  
+-  Currently building **ai‑tfgen (AI‑powered Terraform generator)** & a **Fast‑Track DevOps curriculum**  
+
+---
 
 ## Technologies & Tools  
 
@@ -29,6 +34,8 @@ I specialize in building **future‑ready infrastructure and AI‑driven pipelin
 `https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white`  
 `https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white`  
 
+---
+
 ## Areas of Expertise  
 
 - **DevOps** → CI/CD, Kubernetes, Terraform/OpenTofu, Cloud automation  
@@ -37,16 +44,20 @@ I specialize in building **future‑ready infrastructure and AI‑driven pipelin
 - **LLMOps** → Large Language Model pipelines, fine‑tuning, serving  
 - **DevSecOps** → Security integration, secrets management, compliance  
 
+---
 
 ## Blog & Mentorship  
 
 I share insights on **DevOps, AI/ML, and Cloud** through my [Medium articles](https://medium.com/@prayag-sangode).  
 As a mentor, I guide professionals in **hands‑on labs, real‑world projects, and career‑ready skills**.  
 
+---
+
 ## Get in Touch  
 
 - [LinkedIn](https://www.linkedin.com/in/prayag-sangode-41737318/)  
 - [Medium](https://medium.com/@prayag-sangode)  
 
-*“Learn DevOps the way it’s meant to be — practical, fast, and future‑proof.”*  
+---
 
+*“Learn DevOps the way it’s meant to be — practical, fast, and future‑proof.”*  
